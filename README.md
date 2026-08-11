@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # This is the MAIN branch version
+=======
+# This is the FEATURE branch version
+>>>>>>> feature
